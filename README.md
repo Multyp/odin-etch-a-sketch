@@ -1,5 +1,34 @@
-# odin-etch-a-sketch
+## Etch-a-Sketch
+Etch-a-Sketch is a simple web application that allows you to draw on a grid using your
+mouse. It's inspired by the classic Etch-a-Sketch toy and is built using HTML, CSS,
+and JavaScript.
 
-This project is a simple paint on a web page using a grid though JS.
+# Getting Started
+To use Etch-a-Sketch, simply open the index.html file in your web browser. The grid will
+be displayed with default size of 16 x 16 squares. You can draw on the squares by clicking
+and dragging your mouse over them.
 
-I did all in the HTML file for two reason : performance and laziness lol.
+# Prerequisites
+To use Etch-a-Sketch, you'll need a modern web browser like Chrome, Firefox, or Safari.
+
+# Usage
+Etch-a-Sketch has a few features that allow you to customize your drawing experience:
+
+* New Grid: Clicking the "New Grid" button will prompt you to enter a new grid size
+between 1 and 100. Once you've entered a valid size, the grid will be recreated with the
+new dimensions.
+
+* Clear Grid: Clicking the "Clear Grid" button will clear all the squares on the grid and reset
+them to the background color.
+
+* Pick color: Clicking the "Pick color" button will open a color picker dialog where you can
+select a new color to draw with.
+
+* Background color: Clicking the "Background color" button will open a color picker dialog
+where you can select a new background color for the grid.
+
+* Eraser: Clicking the "Eraser" button will switch the drawing color to the current
+background color, effectively allowing you to erase your drawing.
+
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
