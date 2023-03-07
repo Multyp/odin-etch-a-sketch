@@ -31,4 +31,4 @@ where you can select a new background color for the grid.
 background color, effectively allowing you to erase your drawing.
 
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the  [MIT License](./LICENSE).
